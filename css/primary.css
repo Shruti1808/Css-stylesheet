@@ -1,0 +1,29 @@
+body{
+  background-color: #9932CC;
+}
+
+h2{
+  font-size:28px;
+  color: #FCFBE3;
+  font-style: oblique;
+}
+
+ h3{
+   font-size:25px;
+   text-align: left;
+ }
+
+p{
+  text-align: left;
+
+}
+
+
+img{
+    display: block;
+    margin-right: auto;
+    margin-left: 10px;
+    height: 250px;
+    width: 400px;
+
+ }

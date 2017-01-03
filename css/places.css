@@ -1,0 +1,27 @@
+h2{
+  font-size:40px;
+  color: red;
+  font-style: oblique;
+}
+ h3{
+   font-size:25px;
+   text-align: center;
+ }
+p{
+  text-align: center;
+
+}
+/*img{
+  display:block;
+  text-align:center;
+  height:auto;
+  width:auto;
+
+}*/
+
+img{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+
+ }
