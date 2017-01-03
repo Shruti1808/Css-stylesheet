@@ -1,5 +1,7 @@
 h1 {
-  color: #0000ff;
+  color: red;
+  font-size:50px;
+
 }
 
 
@@ -8,6 +10,11 @@ h2 {
   text-align: center;
 }
 
+h3 {
+  color: green;
+  font-size:30px;
+  font-weight:bold;
+}
 
 p {
   font-family: sans-serif;
@@ -16,4 +23,11 @@ p {
 ul {
   font-size: 20px;
   line-height: 30px;
+}
+
+img.brother{
+  display: block;
+  align: left;
+  height: 300px;
+  width: 400px;
 }
